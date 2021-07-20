@@ -12,7 +12,7 @@ Blockchain is a decentralized technology that allows for secure data sharing. Bl
 ![image](https://user-images.githubusercontent.com/58622363/126325566-85567808-0c7c-4835-a894-4b92bceddd56.png)
 
 
-## After Voting
+## After Voting to candidate 1
 
 ![image](https://user-images.githubusercontent.com/58622363/126325644-815c0255-9442-4d11-a229-734ee75660ec.png)
 
